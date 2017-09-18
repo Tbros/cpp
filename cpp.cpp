@@ -8,8 +8,9 @@ int main()
     int a;
     cout << "Hello ";
     cin>>a;
-    cout<<a;
-    getch();
+    cout<<a<<"\n";
+    cout<<" checkbra via bash\n";
+
 
 
     return 0;
